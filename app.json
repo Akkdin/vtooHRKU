@@ -6,8 +6,16 @@
 		"UUID": {
 			"description": "V2Ray UUID",
 			"value": "323e782d-a302-40fa-af2d-4dc452abb97c"
-		}
 	},
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
 	"website": "https://github.com/Akkdin/vtooHRKU",
 	"repository": "https://github.com/Akkdin/vtooHRKU",
 	"stack": "container"
